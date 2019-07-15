@@ -1,0 +1,4 @@
+Author: Joao Guilherme <jaum.gui001@gmail.com>
+Date:   Sun Jul 14 22:05:49 2019 -0300
+
+    Criação do arquivo status.txt
