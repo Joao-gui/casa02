@@ -2,3 +2,27 @@ Author: Joao Guilherme <jaum.gui001@gmail.com>
 Date:   Sun Jul 14 22:05:49 2019 -0300
 
     Criação do arquivo status.txt
+
+commit 61a8c2f3ff58cb8ad0ad7f9c3d279005eccf534e (HEAD -> master, origin/master)
+Author: João Guilherme <52714370+Joao-gui@users.noreply.github.com>
+Date:   Sun Jul 14 22:14:55 2019 -0300
+
+    Create README.md
+
+commit e25fa6d6971c39ab7deaa5e8622c1ff1ba6288e2
+Author: Joao Guilherme <jaum.gui001@gmail.com>
+Date:   Sun Jul 14 22:08:23 2019 -0300
+
+    Criação do commit do arquivo logs.txt
+
+commit 61556463fb98ab0def34e5831a6b40bece561337
+Author: Joao Guilherme <jaum.gui001@gmail.com>
+Date:   Sun Jul 14 22:08:01 2019 -0300
+
+    Primeira alteração do arquivo status.txt
+
+commit c899b71088c9d20d69585da16166bab8487f12de
+Author: Joao Guilherme <jaum.gui001@gmail.com>
+Date:   Sun Jul 14 22:05:49 2019 -0300
+
+    Criação do arquivo status.txt
